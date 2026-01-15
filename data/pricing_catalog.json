@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "sku": "ITS-MSP-24x7",
+      "name": "Managed IT Support (24/7)",
+      "unit": "month",
+      "base_price_inr": 350000,
+      "notes": "Includes L1/L2 support, incident management, SLA reporting"
+    },
+    {
+      "sku": "ITS-CLOUD-MIG",
+      "name": "Cloud Migration Package",
+      "unit": "project",
+      "base_price_inr": 650000,
+      "notes": "Assessment + migration plan + execution for 10-15 workloads"
+    },
+    {
+      "sku": "ITS-SEC-HARDEN",
+      "name": "Security Hardening & Compliance",
+      "unit": "project",
+      "base_price_inr": 450000,
+      "notes": "Baseline hardening, IAM review, CIS benchmark alignment"
+    },
+    {
+      "sku": "ITS-OBS-MON",
+      "name": "Observability & Monitoring Setup",
+      "unit": "project",
+      "base_price_inr": 300000,
+      "notes": "Monitoring dashboards + alerting + incident runbooks"
+    }
+  ],
+  "discount_policy": {
+    "max_discount_percent_without_approval": 10,
+    "requires_finance_approval_above_percent": 10
+  }
+}

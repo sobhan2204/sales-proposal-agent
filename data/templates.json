@@ -1,0 +1,21 @@
+{
+  "default_proposal_template": {
+    "sections": [
+      "Executive Summary",
+      "Client Context & Objectives",
+      "Proposed Solution (Scope)",
+      "Delivery Plan & Timeline",
+      "Pricing & Commercials",
+      "Assumptions & Exclusions",
+      "Why Northstar",
+      "Next Steps"
+    ],
+    "tone": "Professional, clear, enterprise-friendly",
+    "format_rules": [
+      "Use bullet points for scope",
+      "Add measurable outcomes",
+      "Avoid hallucinated numbers",
+      "Flag unknowns as TBD"
+    ]
+  }
+}

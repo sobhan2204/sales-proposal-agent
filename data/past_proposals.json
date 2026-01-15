@@ -1,0 +1,20 @@
+[
+  {
+    "industry": "Retail",
+    "summary": "Retail client required 24/7 managed support, cloud migration and monitoring. Focused on reducing downtime and improving incident response.",
+    "winning_points": [
+      "Clear SLA and escalation matrix",
+      "Strong security posture plan",
+      "Phased migration roadmap"
+    ]
+  },
+  {
+    "industry": "Logistics",
+    "summary": "Logistics client required DevOps transformation and security audit readiness. Emphasis on CI/CD and vulnerability management.",
+    "winning_points": [
+      "DevOps pipeline automation",
+      "Security compliance mapping",
+      "Cost optimization reporting"
+    ]
+  }
+]

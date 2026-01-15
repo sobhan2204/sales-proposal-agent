@@ -1,0 +1,48 @@
+[
+  {
+    "deal_id": "NS-101",
+    "account_name": "Acme Retail Pvt Ltd",
+    "industry": "Retail",
+    "region": "India",
+    "deal_stage": "Proposal",
+    "contact_name": "Riya Sharma",
+    "contact_email": "riya.sharma@acmeretail.com",
+    "pain_points": [
+      "Frequent downtime in legacy systems",
+      "Slow incident response",
+      "No centralized monitoring"
+    ],
+    "requirements": [
+      "24/7 support",
+      "Cloud migration support",
+      "Security hardening",
+      "Monthly reporting"
+    ],
+    "users_estimate": 250,
+    "deadline_days": 14,
+    "budget_range": "₹12L - ₹20L",
+    "competitors": ["Contoso IT", "BlueBridge Systems"]
+  },
+  {
+    "deal_id": "NS-102",
+    "account_name": "Northwind Logistics",
+    "industry": "Logistics",
+    "region": "India",
+    "deal_stage": "Discovery",
+    "contact_name": "Aman Verma",
+    "contact_email": "aman.verma@northwindlogistics.com",
+    "pain_points": [
+      "Delayed deployments",
+      "Security audit gaps"
+    ],
+    "requirements": [
+      "DevOps CI/CD setup",
+      "Cloud cost optimization",
+      "Vulnerability management"
+    ],
+    "users_estimate": 120,
+    "deadline_days": 21,
+    "budget_range": "₹8L - ₹15L",
+    "competitors": ["SkyOps", "CloudNexa"]
+  }
+]
